@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800"
+   height="214.94115"
+   viewBox="0 -187 512 137.56233"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg6"
+   sodipodi:docname="netflix.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.06875"
+     inkscape:cx="386.43275"
+     inkscape:cy="108.53801"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g4"
+     transform="translate(0,-187)">
+    <path
+       d="m 340.65718,0 v 100.20306 c 12.35923,0.57502 24.68703,1.27014 36.97991,2.09025 v 21.24424 c -19.4326,-1.29531 -38.94691,-2.28408 -58.54221,-2.95832 V 0 Z M 512,0.01187107 483.92292,65.106097 l 28.0701,72.437613 -0.0314,0.0138 c -8.17663,-1.16659 -16.36375,-2.26785 -24.5753,-3.32355 L 471.62308,93.5777 455.70971,130.45985 c -7.54123,-0.83271 -15.09292,-1.62056 -22.66207,-2.35893 L 460.41945,64.670855 435.35187,0.01187107 h 23.32541 L 472.71233,36.195764 488.31847,0.01187107 Z M 245.09316,119.52625 245.09246,0.01148694 h 60.19011 V 21.446707 h -38.6278 v 27.78102 h 29.22711 v 21.244246 h -29.22711 v 49.049357 z m -80.513,-98.077762 -7e-4,-21.43811844 h 66.69092 V 21.446987 H 208.70537 V 120.1078 c -7.19697,0.18835 -14.38627,0.41159 -21.5609,0.6823 V 21.448488 Z M 90.868217,126.96622 V 0.01396579 H 150.75808 V 21.449186 h -38.33105 v 29.035795 c 8.80612,-0.112769 21.32699,-0.240551 29.11679,-0.221698 v 21.245992 c -9.75087,-0.121148 -20.75756,0.133717 -29.11679,0.217159 v 32.163306 c 12.73977,-1.002 25.51795,-1.87867 38.33105,-2.61883 v 21.24634 c -20.05406,1.15517 -40.01805,2.64334 -59.889863,4.44897 z M 48.571047,77.854025 48.56965,0.0104746 H 70.131955 V 128.96884 c -7.882321,0.81089 -15.74963,1.67362 -23.603322,2.58451 L 21.560908,59.824468 V 134.6257 C 14.359741,135.56356 7.1732369,136.54141 0,137.56234 V 0.01187107 H 20.491172 Z M 395.4253,124.81907 v 1.4e-4 V 0.01201012 h 21.5623 V 126.59978 c -7.17812,-0.63895 -14.36323,-1.22988 -21.5623,-1.78071 z"
+       fill="#db202c"
+       fill-rule="nonzero"
+       id="path2" />
+  </g>
+</svg>
