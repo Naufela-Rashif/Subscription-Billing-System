@@ -1,0 +1,33 @@
+fiber:
+ name: "subscription-billing-system"
+ port: 8000
+ prefork: false
+
+
+database:
+ username: "udummy"
+ password: "kujwhehfuw32433"
+ host: "localhost"
+ port: 5432
+ dbname: "udummy"
+ sslmode: "disable"
+
+logrus:
+ level: 6
+ file: ""
+
+midtrans:
+ server_key: "SB-Mid-client-ajWI3oN_iK1VoZKI"
+ environment: "sandbox"
+
+email:
+ sender: "testingbadigadi@gmail.com"
+ passsword: ""
+ host: "smtp.gmail.com"
+ port: "587"
+
+minio:
+ access_key: "K92GT4YLKV1AZMPQFGSJ"
+ secret_Key: "R2sNGuNJ6IF7Nh3zUfVnulHkSqYhThHmvwMqx1Lg"
+ endpoint: "https://s3.nevaobjects.id"
+ use_ssl: false
